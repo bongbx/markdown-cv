@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bong Bui CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bui Xuan Bong
+Full-stack developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="mailto:pinkiepie.pp@gmail.com">pinkiepie.pp@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -19,6 +19,9 @@ Standing on the shoulders of giants
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+#### Sub specialized
+
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 ### Research interests
 
